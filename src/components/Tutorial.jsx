@@ -3,7 +3,10 @@ import DataVideo from "./dataVideo";
 
 function Tutorial() {
   return (
-    <div className="text-white mt-10 p-8 md:px-15  md:px-40">
+    <div
+      id="tutorial-section"
+      className="text-white mt-10 p-8 md:px-15 md:px-40 mb-16"
+    >
       <div className="mt-5 md:mt-0">
         <p className=" text-center font-semibold mb-10 text-2xl">
           Tutorial Videos

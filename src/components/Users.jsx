@@ -12,7 +12,7 @@ function Users() {
             </div>
           </li>
           <li>
-            <div className="text-white fonwt-semibold text-sm md:text-[1.1rem] leading-relaxed">
+            <div className="text-white font-semibold text-sm md:text-[1.1rem] leading-relaxed">
               100% Free
             </div>
             <div>
@@ -21,10 +21,10 @@ function Users() {
           </li>
           <li>
             <div className="text-white font-semibold text-sm md:text-[1.1rem] leading-relaxed">
-              Yes
+              1.86
             </div>
             <div>
-              <p className="text-xs">Trusted</p>
+              <p className="text-xs">Version</p>
             </div>
           </li>
           <li>

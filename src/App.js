@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 
 export default function App() {
   return (
-    <div className="font-['Poppins'] h-[200rem] bg-[#111010] w-screen">
+    <div className="font-['Poppins'] h-screen bg-[#111010] w-screen">
       <header className="bg-[#111010]">
         <section>
           <Nav />
