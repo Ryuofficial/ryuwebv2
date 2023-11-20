@@ -9,7 +9,7 @@ function Nav() {
             Ryumoto GFX
           </p>
         </div>
-        <div className="text-[#bebebe] nav-links-bar  duration-500 md:static absolute bg-[#111010] md:min-h-fit min-h-[40vh] left-0 top-[-100%] md:w-auto w-full flex item-center px-5">
+        <div className="text-[#bebebe] nav-links-bar  duration-500 md:static absolute bg-[#111010] md:min-h-fit min-h-[42vh] left-0 top-[-100%] md:w-auto w-full flex item-center px-10">
           <ul className="flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8">
             <li>
               <a className="hover:text-[#f81b3c]" href="#About">

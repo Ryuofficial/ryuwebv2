@@ -1,4 +1,6 @@
 import Mockup from "../img/mockUp.png";
+import Buttons from "./Buttons";
+
 function hero() {
   return (
     <>
@@ -7,7 +9,7 @@ function hero() {
           <h1 className="leading-normal text-[2rem] whitespace-nowrap md:whitespace-wrap md:text-[3rem] font-bold text-white">
             Unlock Your
             <br />{" "}
-            <span className="bg-gradient-to-r from-[#ff0000]  to-[#f81b3c] inline-block text-transparent bg-clip-text ">
+            <span className="bg-gradient-to-r from-[#ff0000]  to-[#940c21] inline-block text-transparent bg-clip-text ">
               Favorite Skins
             </span>
           </h1>
@@ -16,16 +18,8 @@ function hero() {
             for an enhanced gameplay experience.
           </p>
 
-          <div className=" p-2 md:p-0 mt-[3rem] md:mt-[2rem] space-y-3 md:space-y-0 md:space-x-3 grid justify-center grid-cols-1 md:grid-cols-2">
-            <div className=" transition-all flex justify-center items-center whitespace-nowrap text-[0.7rem] text-white bg-gradient-to-r md:text-sm shadow-pinkShadow from-[#ff0000]  to-[#7e0316] p-3 md:py-2 md:px-5 rounded-full active:text-[#212121]">
-              Download Now
-            </div>
-            <div className="whitespace-nowrap text-[0.7rem] text-white p-[2px] bg-gradient-to-r from-[#ff0000] to-[#7e0316] rounded-full md:text-sm">
-              <span class="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow">
-                <p className="m-[7px] ">Get in Playstore</p>
-              </span>
-            </div>
-          </div>
+          {/* replace with buttons */}
+          <Buttons />
         </div>
         <div className="flex justify-center ">
           <img
