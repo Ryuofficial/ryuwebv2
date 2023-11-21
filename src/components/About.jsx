@@ -3,12 +3,12 @@ function About() {
     // 1st about info
     <div
       id="About"
-      className=" mt-2 p-8 md:px-15 grid grid-cols-1 md:grid-cols-2 gap-4 md:px-40 justify-center text-white items-center space-y-5"
+      className=" mt-2 p-9 md:px-16 grid grid-cols-1 md:grid-cols-2 gap-4 md:px-40 justify-center text-white items-center space-y-5"
     >
       <div className="order-2 md:order-1">
         <div
           id="box-des"
-          className="mx-auto max-w-[450px] mt-4 md:mt-0 p-20 bg-[#212121] h-[300px] rounded-xl "
+          className="mx-auto min-w-min max-w-[440px] md:max-w-[450px] mt-4 md:mt-0 p-20 bg-[#212121] h-[300px] rounded-xl "
         ></div>
       </div>
       <div className="order-1 md:order-2">

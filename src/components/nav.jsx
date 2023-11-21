@@ -4,7 +4,7 @@ function Nav() {
     <>
       <div className="flex justify-between items-center w-[92%] mx-auto p-4">
         {/* 1st box- logo */}
-        <div className="flex items-center">
+        <div href="/" className="flex items-center">
           <img className="w-14" src={RyumotoLogo} alt="icon" />
           <p className="text-white font-semibold text-[1rem] ml-2">
             Ryumoto GFX
@@ -12,7 +12,7 @@ function Nav() {
         </div>
         {/* 2nd box */}
         <div>
-          <div className="border border-t-[0px] border-r-[0px] border-l-[0px] border-[#212121] md:border-none text-[#bebebe] nav-links-bar  duration-500 md:static absolute bg-[#111010] py-10 md:py-0 md:min-h-fit min-h-min left-0 top-[-100%] md:w-auto w-full flex item-center px-10">
+          <div className=" z-10 border border-t-[0px] border-r-[0px] border-l-[0px] border-[#212121] md:border-none text-[#bebebe] nav-links-bar  duration-500 md:static absolute bg-[#111010] py-10 md:py-0 md:min-h-fit min-h-min left-0 top-[-100%] md:w-auto w-full flex item-center px-10">
             <ul className="flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8">
               <li>
                 <a className="hover:text-[#f81b3c]" href="#About">
