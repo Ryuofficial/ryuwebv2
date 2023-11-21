@@ -23,7 +23,7 @@ const Buttons = () => {
         className="whitespace-nowrap text-[0.7rem] text-white p-[2px] bg-gradient-to-r from-[#ff0000] to-[#7e0316] rounded-full md:text-sm"
         onClick={handlePlaystoreClick}
       >
-        <span className="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow">
+        <span className="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow active:text-[#ff0000]">
           <p className="m-[7px]">Get in Playstore</p>
         </span>
       </div>

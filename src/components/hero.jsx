@@ -29,7 +29,7 @@ function hero() {
               ]}
               className=""
               wrapper="span"
-              speed={50}
+              speed={20}
               repeat={Infinity}
             />
           </h1>

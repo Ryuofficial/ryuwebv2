@@ -2,24 +2,39 @@ function Contact() {
   return (
     <div
       id="Contact-section"
-      className=" space-x-5 grid grid-cols-1 md:grid-cols-2 gap-6 text-white p-10 pt-0 md:px-[10rem] bg-[#060606] h-screen justify-center items-center"
+      className=" space-x-5 grid grid-cols-1 md:grid-cols-2 gap-6 text-white py-11 md:px-[10rem] bg-[#060606] h-fit justify-center items-center"
     >
-      <div>
+      <div className="p-10">
         <p className="text-start font-semibold mb-5 text-xl">Lets Connect</p>
         <p className="text-start text-[0.9rem] text-[#979696]">
           If you have question or issue about the app you can contact the
           developer below.
         </p>
-        <div className=" flex justify-start mt-2">
-          <a className="text-[.84rem]" href="/">
+        <div className="flex items-center justify-start mt-4">
+          <ion-icon name="paper-plane-outline"></ion-icon>
+          <a
+            className="ml-2 text-[.84rem]"
+            href="https://www.telegram.me/ryudev"
+          >
             Telegram
           </a>
         </div>
       </div>
 
-      <div>
-        <p className="text-[0.9rem] text-center md:text-start text-[#979696]">
-          @2023 Ryu developer. All right Reserved.
+      <div className="grid grid-cols-1 px-10">
+        <div className="flex justify-center md:justify-start space-x-4 py-4">
+          <a href="https://www.youtube.com/@RyuDev_">
+            <ion-icon name="logo-youtube"></ion-icon>
+          </a>
+          <a href="https://www.tiktok.com/@dumpacryu">
+            <ion-icon name="logo-tiktok"></ion-icon>
+          </a>
+          <a href="mailto:ryuofficial64@gmail.com">
+            <ion-icon name="mail-outline"></ion-icon>
+          </a>
+        </div>
+        <p className="text-[0.7rem] text-center md:text-start text-[#979696]">
+          &#169; 2023 Ryu developer. All right Reserved.
         </p>
       </div>
     </div>
