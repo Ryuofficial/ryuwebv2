@@ -12,7 +12,7 @@ const DataVideo = [
 
   {
     title: "Can't Use Folder",
-    desc: "Fix can't use folder in Android 11+",
+    desc: "Fix can't use folder for Android 11+ OS",
     link: "https://youtu.be/CMacWI8kp8Q?si=fnTJhKIZC2K0zAGC",
   },
 
