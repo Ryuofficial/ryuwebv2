@@ -5,7 +5,7 @@ const DataVideo = [
     link: "https://youtu.be/FgX4REYiH64?si=i1mVP1yX7izlQiHW",
   },
   {
-    title: "Permission Android 11+",
+    title: "Permission for Android 11+",
     desc: "Tutorial on how to allow permission in Android 11+",
     link: "https://youtu.be/DNbc0gzdt6E?si=xXFiRM7VLSi2YHVP",
   },
