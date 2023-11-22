@@ -18,7 +18,7 @@ const DataVideo = [
 
   {
     title: "Restore/Remove Skins",
-    desc: "Tutorial on how to remove injected skins",
+    desc: "Tutorial on how to remove the injected skins",
     link: "https://youtu.be/YF1Q55xZVSI?si=9YwDmx6GyIYsCkwB",
   },
 ];
