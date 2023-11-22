@@ -21,7 +21,7 @@ function Users() {
           </li>
           <li>
             <div className="text-white font-semibold text-sm md:text-[1.1rem] leading-relaxed">
-              1.86
+              1.84
             </div>
             <div>
               <p className="text-xs">Version</p>
