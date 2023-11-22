@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.4f3df3d3.css",
-    "main.js": "/static/js/main.f6ab6480.js",
+    "main.js": "/static/js/main.33067014.js",
     "static/media/mockUp.png": "/static/media/mockUp.17a87287b6c51a6b949a.png",
     "static/media/mockup-2.png": "/static/media/mockup-2.76f133c157dac1d9bdf8.png",
     "static/media/ryumoto-logo.png": "/static/media/ryumoto-logo.67059f126d6c36c1ed96.png",
     "index.html": "/index.html",
     "main.4f3df3d3.css.map": "/static/css/main.4f3df3d3.css.map",
-    "main.f6ab6480.js.map": "/static/js/main.f6ab6480.js.map"
+    "main.33067014.js.map": "/static/js/main.33067014.js.map"
   },
   "entrypoints": [
     "static/css/main.4f3df3d3.css",
-    "static/js/main.f6ab6480.js"
+    "static/js/main.33067014.js"
   ]
 }
