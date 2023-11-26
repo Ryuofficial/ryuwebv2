@@ -29,10 +29,10 @@ function Users() {
           </li>
           <li>
             <div className=" text-white font-semibold text-sm md:text-[1.1rem] leading-relaxed">
-              Android
+              Ryu Dev
             </div>
             <div>
-              <p className="text-xs">Supported</p>
+              <p className="text-xs">Developer</p>
             </div>
           </li>
         </ul>
