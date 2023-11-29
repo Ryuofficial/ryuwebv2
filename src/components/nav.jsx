@@ -25,6 +25,11 @@ function Nav() {
                 </a>
               </li>
               <li>
+                <a className="hover:text-[#f81b3c]" href="#faqs">
+                  Faqs
+                </a>
+              </li>
+              <li>
                 <a className="hover:text-[#f81b3c]" href="#Contact-section">
                   Contact
                 </a>

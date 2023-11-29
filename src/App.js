@@ -4,6 +4,7 @@ import Users from "./components/Users";
 import About from "./components/About";
 import Tutorial from "./components/Tutorial";
 import Contact from "./components/Contact";
+import Accordion from "./components/Accordion";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
           <Users />
           <About />
           <Tutorial />
+          <Accordion />
           <Contact />
         </section>
       </header>
