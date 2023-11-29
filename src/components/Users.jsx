@@ -13,10 +13,10 @@ function Users() {
           </li>
           <li>
             <div className="text-white font-semibold text-sm md:text-[1.1rem] leading-relaxed">
-              100% Free
+              20.1 MB
             </div>
             <div>
-              <p className="text-xs">install</p>
+              <p className="text-xs">Size</p>
             </div>
           </li>
           <li>
