@@ -24,7 +24,7 @@ const Buttons = () => {
         onClick={handlePlaystoreClick}
       >
         <span className="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow active:text-[#ff0000]">
-          <p className="m-[7px]">Get in Playstore</p>
+          <button className="m-[7px]">Get in Playstore</button>
         </span>
       </div>
     </div>

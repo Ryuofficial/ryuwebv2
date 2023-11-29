@@ -3,7 +3,7 @@ import mockup2 from "../img/mockup-2.png";
 function About() {
   return (
     <>
-      <div
+      <section
         id="About"
         className=" mt-2 p-9 grid grid-cols-1 md:grid-cols-2 gap-4 md:px-40 justify-center text-white items-center space-y-5"
       >
@@ -15,7 +15,7 @@ function About() {
             <img
               className=" object-cover w-full h-full rounded-2xl"
               src={mockup2}
-              alt="mockup image with screenshot of ryumoto gfx"
+              alt="something mockup with screenshot of ryumoto gfx"
             />
           </div>
         </div>
@@ -35,7 +35,7 @@ function About() {
             </div>
           </div>
         </div>
-      </div>
+      </section>
       <div className="h-[1px] bg-[#212121] mt-20"></div>
     </>
   );

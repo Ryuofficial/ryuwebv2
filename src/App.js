@@ -2,9 +2,9 @@ import Nav from "./components/nav";
 import Body from "./components/Body";
 import Users from "./components/Users";
 import About from "./components/About";
-import Tutorial from "./components/Tutorial";
 import Contact from "./components/Contact";
 import Accordion from "./components/Accordion";
+import Features from "./components/Features";
 
 export default function App() {
   return (
@@ -15,7 +15,7 @@ export default function App() {
           <Body />
           <Users />
           <About />
-          <Tutorial />
+          <Features />
           <Accordion />
           <Contact />
         </section>

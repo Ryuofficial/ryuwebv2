@@ -1,8 +1,8 @@
 function Contact() {
   return (
-    <div
+    <footer
       id="Contact-section"
-      className=" space-x-5 grid grid-cols-1 md:grid-cols-2 gap-6 text-white py-11 md:px-[10rem] bg-[#060606] h-fit justify-center items-center"
+      className=" space-x-5 grid grid-cols-1 md:grid-cols-2 gap-6 text-white py-11 pb-[4.8rem] md:px-[10rem] bg-[#060606] h-fit justify-center items-center"
     >
       <div className="p-10">
         <p className="text-start font-semibold mb-5 text-xl">Lets Connect</p>
@@ -37,7 +37,7 @@ function Contact() {
           &#169; 2023 Ryu developer. All right Reserved.
         </p>
       </div>
-    </div>
+    </footer>
   );
 }
 

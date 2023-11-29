@@ -20,8 +20,8 @@ function Nav() {
                 </a>
               </li>
               <li>
-                <a className="hover:text-[#f81b3c]" href="#tutorial-section">
-                  Tutorial
+                <a className="hover:text-[#f81b3c]" href="#features">
+                  Features
                 </a>
               </li>
               <li>

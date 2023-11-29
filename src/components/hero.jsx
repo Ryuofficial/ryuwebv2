@@ -4,12 +4,11 @@ import { TypeAnimation } from "react-type-animation";
 
 function hero() {
   return (
-    <>
+    <section>
       <div className="text-center md:max-w-[1200px] p-8 md:p-20  grid grid-cols-1 md:grid-cols-2 md:text-start gap-10">
         <div className="mt-10 ">
           <h1 className="leading-normal text-[2rem] whitespace-nowrap md:whitespace-wrap md:text-[3rem] font-bold text-white">
             <span className="bg-gradient-to-r from-[#ff0000]  to-[#940c21] inline-block text-transparent bg-clip-text">
-              {" "}
               Unlock your
             </span>
 
@@ -46,11 +45,11 @@ function hero() {
             className=" object-cover"
             width={200}
             src={Mockup}
-            alt="mock-up"
+            alt="something mock-up"
           />
         </div>
       </div>
-    </>
+    </section>
   );
 }
 

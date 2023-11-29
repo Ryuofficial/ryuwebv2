@@ -13,10 +13,6 @@ function Accordion() {
 
   const accordionData = [
     {
-      title: "Which versions of the Android OS are supported?",
-      desc: "The app supports Android versions from Lollipop (5) to Tiramisu (13), though some Android 13 versions are not supported.   ",
-    },
-    {
       title: "Is it free to use?",
       desc: "Yes, the app is free and designed for users who prefer not to spend money in the game.",
     },
@@ -25,6 +21,10 @@ function Accordion() {
       title: "How to Use Ryumoto GFX?",
       desc: "Open the app, choose a category, then select your favorite skin, and wait for the dialog indicating that the injection was successful.",
       videoLink: "https://www.youtube.com/watch?v=FgX4REYiH64",
+    },
+    {
+      title: "Which versions of the Android OS are supported?",
+      desc: "The app supports Android versions from Lollipop (5) to Tiramisu (13), though some Android 13 versions are not supported.   ",
     },
     {
       title: "How to allow permission in Android 11+ OS?",
