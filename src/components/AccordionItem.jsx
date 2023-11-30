@@ -23,7 +23,7 @@ function AccordionItem({ open, toggle, title, desc, videoLink }) {
         </div>
 
         <Collapse isOpened={open}>
-          <div className="text-[12px] md:text-[13.5px] text-[#979696] px-4 pb-4 md:px-5 rounded-b-[0.3rem]">
+          <div className="text-[12px] md:text-[13.5px] text-[#979696] px-5 pb-4 rounded-b-[0.3rem]">
             {desc}
             <br />
             <br />

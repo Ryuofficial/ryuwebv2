@@ -1,5 +1,6 @@
-import { MdAdminPanelSettings, MdRestorePage } from "react-icons/md";
-import { FaNewspaper } from "react-icons/fa6";
+import Shield from "../img/shield-v2.png";
+import Restore from "../img/time.png";
+import History from "../img/history.png";
 
 function Features() {
   return (
@@ -9,17 +10,17 @@ function Features() {
           Special Features
         </p>
 
-        <p className=" text-center text-sm text-[#979696] text-l">
+        <p className=" text-center text-sm text-[#979696]">
           Ryumoto GFX features
         </p>
       </div>
-      <div className="text-white grid grid-cols-1 md:grid-cols-3 px-6">
+      <div className="text-white grid grid-cols-1 md:grid-cols-3 px-7">
         {/* Feature 1 */}
         <div className="p-10 flex flex-col justify-center items-center space-y-2">
           <div>
-            <MdAdminPanelSettings fontSize={45} color="#bebebe" />
+            <img src={Shield} alt="safe and free something" width={45} />
           </div>
-          <h1 className=" text-center text-2xl font-bold  bg-gradient-to-r from-[#ff0000]  to-[#c7132e] inline-block text-transparent bg-clip-text">
+          <h1 className=" text-center text-2xl font-bold text-white">
             Safe and free
           </h1>
           <p className="text-sm text-center text-[#979696] md:px-10">
@@ -33,9 +34,9 @@ function Features() {
 
         <div className="p-10 flex flex-col justify-center items-center space-y-2">
           <div>
-            <MdRestorePage fontSize={45} color="#bebebe" />
+            <img src={Restore} alt="safe and free something" width={60} />
           </div>
-          <h1 className=" text-center text-2xl font-bold bg-gradient-to-r from-[#ff0000]  to-[#c7132e] inline-block text-transparent bg-clip-text">
+          <h1 className=" text-center text-2xl font-bold text-white">
             Restore All
           </h1>
           <p className="text-sm text-center text-[#979696] md:px-10">
@@ -49,11 +50,9 @@ function Features() {
 
         <div className="p-10 flex flex-col justify-center items-center space-y-2">
           <div>
-            <FaNewspaper fontSize={39} color="#bebebe" />
+            <img src={History} alt="safe and free something" width={45} />
           </div>
-          <h1 className="text-center text-2xl font-bold bg-gradient-to-r from-[#ff0000]  to-[#c7132e] inline-block text-transparent bg-clip-text">
-            History
-          </h1>
+          <h1 className="text-center text-2xl font-bold text-white">History</h1>
           <p className="text-sm text-center text-[#979696] md:px-10">
             You can track all your injected skins on the History page, making it
             easy for you to remove them when you need to get rid of the skins.
