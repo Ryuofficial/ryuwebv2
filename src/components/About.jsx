@@ -21,7 +21,7 @@ function About() {
         </div>
         <div className="order-1 md:order-2">
           <div>
-            <p className="py-5 md:p-0 text-start  md:text-center font-semibold md:mb-5 text-xl md:text-2xl">
+            <p className="py-5 md:p-0 text-start  md:text-center font-semibold md:mb-5 text-2xl">
               About the app
             </p>
             <div>
