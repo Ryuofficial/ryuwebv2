@@ -31,7 +31,7 @@ function Features() {
   return (
     <section className="py-14" id="features">
       {/* Title and desc */}
-      <div className="text-white mb-7 mt-3">
+      <div className="text-white mb-16 mt-3">
         <p className=" text-center font-semibold mb-[8px] text-2xl">
           Special Features
         </p>
