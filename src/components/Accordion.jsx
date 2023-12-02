@@ -41,6 +41,10 @@ function Accordion() {
       desc: "For default skins, the first position features the default image skin of the hero with the 'Restore' text. The backup/restore skins consistently appear as the 1st image.",
       videoLink: "https://www.youtube.com/watch?v=YF1Q55xZVSI",
     },
+    {
+      title: "How to remove pink bugs?",
+      desc: 'To fix pink bugs, go to the main dashboard > click the hamburger lines in the bottom right > select the "Fix bug" button. Then, choose MLBB. You can now play without bugs.',
+    },
   ];
 
   return (

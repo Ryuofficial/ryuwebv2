@@ -10,7 +10,7 @@ function AccordionItem({ open, toggle, title, desc, videoLink }) {
           className=" p-3 md:p-5 flex justify-between items-center "
           onClick={toggle}
         >
-          <p className="text-[13.5px] md:text-[15px] font-medium p-[4px] md:p-[3.5px] text-[#e2e2e2] px-2">
+          <p className="text-[13.5px] md:text-[15px] font-[400]p-[4px] md:p-[3.5px] text-[#e2e2e2] px-2">
             {title}
           </p>
           <div>
