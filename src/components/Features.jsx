@@ -1,10 +1,36 @@
-import Shield from "../img/shield-v2.png";
-import Restore from "../img/time.png";
-import History from "../img/history.png";
+import FeaturesBox from "./FeaturesBox";
+import SafeIMG from "../img/shield-v2.png";
+import RestoreIMG from "../img/time.png";
+import HistoryIMG from "../img/history.png";
+
+const FeatureBoxData = [
+  {
+    Title: "Safe and free",
+    desc: " Enjoy a secure and free experience with our app—your safety is our priority. Embark on a worry-free and user-friendly journey through our app's safe and free features.",
+    altText: "safe and free something",
+    myKey: "734d035a-90b6-11ee-b9d1-0242ac120002",
+    icon: SafeIMG,
+  },
+  {
+    Title: "Restore All",
+    desc: " If you want to remove all injected skins in one click, you can use the 'Restore All' feature on the History page—easy, fast, and reliable.",
+    altText: "Restore something",
+    myKey: "79aaeac8-90b6-11ee-b9d1-0242ac120002",
+    icon: RestoreIMG,
+  },
+  {
+    Title: "History",
+    desc: "   You can track all your injected skins on the History page, making it easy for you to remove them when you need to get rid of the skins..",
+    altText: "History something",
+    myKey: "7ff51ebc-90b6-11ee-b9d1-0242ac120002",
+    icon: HistoryIMG,
+  },
+];
 
 function Features() {
   return (
     <section className="py-14" id="features">
+      {/* Title and desc */}
       <div className="text-white mb-7 mt-3">
         <p className=" text-center font-semibold mb-[8px] text-2xl">
           Special Features
@@ -15,49 +41,17 @@ function Features() {
         </p>
       </div>
       <div className="text-white grid grid-cols-1 md:grid-cols-3 px-7">
-        {/* Feature 1 */}
-        <div className="p-10 flex flex-col justify-center items-center space-y-2">
-          <div>
-            <img src={Shield} alt="safe and free something" width={45} />
-          </div>
-          <h1 className=" text-center text-2xl font-bold text-white">
-            Safe and free
-          </h1>
-          <p className="text-sm text-center text-[#979696] md:px-10">
-            Enjoy a secure and free experience with our app—your safety is our
-            priority. Embark on a worry-free and user-friendly journey through
-            our app's safe and free features.
-          </p>
-        </div>
-
-        {/* Feature 2 */}
-
-        <div className="p-10 flex flex-col justify-center items-center space-y-2">
-          <div>
-            <img src={Restore} alt="safe and free something" width={60} />
-          </div>
-          <h1 className=" text-center text-2xl font-bold text-white">
-            Restore All
-          </h1>
-          <p className="text-sm text-center text-[#979696] md:px-10">
-            If you want to remove all injected skins in one click, you can use
-            the 'Restore All' feature on the History page—easy, fast, and
-            reliable.
-          </p>
-        </div>
-
-        {/* Feature 3 */}
-
-        <div className="p-10 flex flex-col justify-center items-center space-y-2">
-          <div>
-            <img src={History} alt="safe and free something" width={45} />
-          </div>
-          <h1 className="text-center text-2xl font-bold text-white">History</h1>
-          <p className="text-sm text-center text-[#979696] md:px-10">
-            You can track all your injected skins on the History page, making it
-            easy for you to remove them when you need to get rid of the skins.
-          </p>
-        </div>
+        {FeatureBoxData.map((data) => {
+          return (
+            <FeaturesBox
+              key={data.myKey}
+              title={data.Title}
+              desc={data.desc}
+              myIcon={data.icon}
+              altText={data.altText}
+            />
+          );
+        })}
       </div>
     </section>
   );
