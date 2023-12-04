@@ -1,4 +1,4 @@
-import Mockup from "../img/mockUp.png";
+import Mockup from "../img/mockUp.webp";
 import Buttons from "./Buttons";
 import { TypeAnimation } from "react-type-animation";
 
