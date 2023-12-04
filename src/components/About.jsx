@@ -1,4 +1,4 @@
-import mockup2 from "../img/mockup-2.png";
+import mockup2 from "../img/mockup-2.webp";
 
 function About() {
   return (

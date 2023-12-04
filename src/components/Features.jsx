@@ -1,7 +1,7 @@
 import FeaturesBox from "./FeaturesBox";
-import SafeIMG from "../img/shield-v2.png";
-import RestoreIMG from "../img/time.png";
-import HistoryIMG from "../img/history.png";
+import SafeIMG from "../img/shield-v2.webp";
+import RestoreIMG from "../img/time.webp";
+import HistoryIMG from "../img/history.webp";
 
 const FeatureBoxData = [
   {
