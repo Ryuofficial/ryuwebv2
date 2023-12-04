@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b9c2254e.css",
-    "main.js": "/static/js/main.5bfb7985.js",
-    "static/media/mockUp.png": "/static/media/mockUp.17a87287b6c51a6b949a.png",
+    "main.js": "/static/js/main.0222f375.js",
     "static/media/mockup-2.png": "/static/media/mockup-2.76f133c157dac1d9bdf8.png",
+    "static/media/mockUp.webp": "/static/media/mockUp.32b49c2f192ffbea78c6.webp",
     "static/media/ryumoto-logo.png": "/static/media/ryumoto-logo.67059f126d6c36c1ed96.png",
     "static/media/history.png": "/static/media/history.0dfa3bd83229e4841efd.png",
     "static/media/time.png": "/static/media/time.14e9d5d4c5ee0bc3a281.png",
     "index.html": "/index.html",
     "main.b9c2254e.css.map": "/static/css/main.b9c2254e.css.map",
-    "main.5bfb7985.js.map": "/static/js/main.5bfb7985.js.map"
+    "main.0222f375.js.map": "/static/js/main.0222f375.js.map"
   },
   "entrypoints": [
     "static/css/main.b9c2254e.css",
-    "static/js/main.5bfb7985.js"
+    "static/js/main.0222f375.js"
   ]
 }
