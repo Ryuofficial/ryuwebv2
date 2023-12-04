@@ -1,4 +1,8 @@
 function Users() {
+  const ApkVersion = 1.86;
+  document.title = `Ryumoto GFX APK Download [Latest Version] v${ApkVersion} for Android`;
+
+  console.log(document.title);
   return (
     <section className="p-8 md:px-15">
       <div className="px-2 md:px-40">
@@ -21,7 +25,7 @@ function Users() {
           </li>
           <li>
             <div className="text-white font-semibold text-sm md:text-[1.1rem] leading-relaxed">
-              1.86
+              {ApkVersion}
             </div>
             <div>
               <p className="text-xs">Version</p>
