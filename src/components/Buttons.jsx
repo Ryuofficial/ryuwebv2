@@ -7,8 +7,7 @@ const Buttons = () => {
 
   const handlePlaystoreClick = () => {
     // Redirect to youtube.com
-    window.location.href =
-      "https://play.google.com/store/apps/details?id=com.ryumoto.gfx&hl=en_US";
+    window.location.href = "#more-info";
   };
 
   return (
@@ -24,7 +23,7 @@ const Buttons = () => {
         onClick={handlePlaystoreClick}
       >
         <span className="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow active:text-[#ff0000]">
-          <button className="m-[7px]">Get in Playstore</button>
+          <button className="m-[7px]">More Info</button>
         </span>
       </div>
     </div>
