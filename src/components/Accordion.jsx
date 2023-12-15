@@ -18,6 +18,11 @@ function Accordion() {
     },
 
     {
+      title: 'How get rid of "Third Party Detected" in MLBB?',
+      desc: "Simply update your app to the latest version and delete the old one. The latest version is updated and safe to use. Note that deleting the old version is necessary to completely remove the 'Third Party Detected' message.",
+    },
+
+    {
       title: "How to Use Ryumoto GFX?",
       desc: "Open the app, choose a category, then select your favorite skin, and wait for the dialog indicating that the injection was successful.",
       videoLink: "https://www.youtube.com/watch?v=FgX4REYiH64",
