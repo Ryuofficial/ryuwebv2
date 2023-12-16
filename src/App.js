@@ -6,6 +6,9 @@ import Contact from "./components/Contact";
 import Accordion from "./components/Accordion";
 import Features from "./components/Features";
 
+//App version
+export const ApkVersion = 1.87;
+
 export default function App() {
   return (
     <div className="font-['Poppins'] h-screen bg-[#111010] w-screen">

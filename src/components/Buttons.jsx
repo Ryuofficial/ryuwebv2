@@ -1,8 +1,23 @@
+import { ApkVersion } from "../App";
+
 const Buttons = () => {
   const handleDownloadClick = () => {
-    // Redirect to google.com
-    window.location.href =
-      "https://www.mediafire.com/file/ivbnypik5qna523/RyumotoGFX.apk/file";
+    const fileUrl = process.env.PUBLIC_URL + "/RyumotoGFX.apk";
+    const fileName = `RyumotoGFX[${ApkVersion}].apk`;
+
+    // Create a temporary anchor element
+    const anchor = document.createElement("a");
+    anchor.href = fileUrl;
+    anchor.download = fileName;
+
+    // Append the anchor to the body
+    document.body.appendChild(anchor);
+
+    // Trigger a click event on the anchor
+    anchor.click();
+
+    // Remove the anchor from the body
+    document.body.removeChild(anchor);
   };
 
   const handlePlaystoreClick = () => {
