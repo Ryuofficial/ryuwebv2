@@ -1,4 +1,4 @@
-import { ApkVersion } from "../App";
+import { ApkVersion } from "../index";
 
 const Buttons = () => {
   const handleDownloadClick = () => {

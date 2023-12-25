@@ -7,7 +7,6 @@ import Accordion from "./components/Accordion";
 import Features from "./components/Features";
 
 //App version
-export const ApkVersion = 1.88;
 
 export default function App() {
   return (

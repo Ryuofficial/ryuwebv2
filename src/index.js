@@ -3,6 +3,9 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 
+export const ApkVersion = 1.88;
+document.title = `Ryumoto GFX APK Download [Latest Version] v${ApkVersion} for Android`;
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>

@@ -1,8 +1,6 @@
-import { ApkVersion } from "../App";
+import { ApkVersion } from "../index";
 
 function Users() {
-  document.title = `Ryumoto GFX APK Download [Latest Version] v${ApkVersion} for Android`;
-
   return (
     <section id="more-info" className="p-8 md:px-15">
       <div className="px-2 md:px-40">
