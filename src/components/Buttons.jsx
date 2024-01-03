@@ -22,7 +22,8 @@ const Buttons = () => {
 
   const handlePlaystoreClick = () => {
     // Redirect to youtube.com
-    window.location.href = "#more-info";
+    window.location.href =
+      "https://www.mediafire.com/file/8yyn8kmz9ybjm4w/RyumotoGFX_%255B1.89%255D.apk/file";
   };
 
   return (
@@ -38,7 +39,7 @@ const Buttons = () => {
         onClick={handlePlaystoreClick}
       >
         <span className="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow active:text-[#ff0000]">
-          <button className="m-[7px]">More info</button>
+          <button className="m-[7px]">Alternative Download Link</button>
         </span>
       </div>
     </div>
