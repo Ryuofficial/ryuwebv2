@@ -39,7 +39,7 @@ const Buttons = () => {
         onClick={handlePlaystoreClick}
       >
         <span className="transition-all flex w-full h-full bg-[#111010] text-white rounded-full p-[2px] justify-center items-center  active:shadow-pinkShadow active:text-[#ff0000]">
-          <button className="m-[7px]">Alternative Download Link</button>
+          <button className="m-[7px]">Alternative download</button>
         </span>
       </div>
     </div>

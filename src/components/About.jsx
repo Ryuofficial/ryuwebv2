@@ -13,6 +13,8 @@ function About() {
             className="mx-auto min-w-min max-w-[440px] md:max-w-[450px] mt-4 md:mt-0 bg-[#0a0a0a] h-[300px] rounded-2xl"
           >
             <img
+              width={400}
+              height={400}
               className=" object-cover w-full h-full rounded-2xl"
               src={mockup2}
               alt="something mockup with screenshot of ryumoto gfx"

@@ -1,11 +1,11 @@
-import RyumotoLogo from "../img/ryumoto-logo.png";
+import RyumotoLogo from "../img/ryumoto-logo.webp";
 function Nav() {
   return (
     <>
       <div className="flex justify-between items-center w-[92%] mx-auto p-4">
         {/* 1st box- logo */}
         <div href="/" className="flex items-center">
-          <img className="w-14" src={RyumotoLogo} alt="icon" />
+          <img className="w-14 h-14" src={RyumotoLogo} alt="icon" />
           <p className="text-white font-semibold text-[1rem] ml-2">
             Ryumoto GFX
           </p>

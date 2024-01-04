@@ -32,20 +32,21 @@ function hero() {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[0.9rem]  md:text-[.9rem] text-[#979696] mt-10">
-            Upgrade your MLBB gaming with Ryumoto GFX! Enjoy free, cool skins
-            for an enhanced gameplay experience.
-          </p>
+          <div>
+            <p className="text-[0.9rem]  md:text-[.9rem] text-[#979696] mt-10">
+              Upgrade your MLBB gaming with Ryumoto GFX! Enjoy free, cool skins
+              for an enhanced gameplay experience.
+            </p>
+          </div>
 
           {/* replace with buttons */}
           <Buttons />
         </div>
         <div className="flex justify-center ">
           <img
-            className=" object-cover"
-            width={200}
             src={Mockup}
             alt="something mock-up"
+            style={{ width: "200px", height: "400px" }}
           />
         </div>
       </div>
