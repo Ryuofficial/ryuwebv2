@@ -28,11 +28,11 @@ function About() {
             </p>
             <div>
               <p className=" md:p-10 text-start md:text-center text-[0.9rem] mb-6 text-[#979696]">
-                Ryumoto GFX is a free and secure app that provides you with MLBB
-                visual skins to enhance your gaming skills. The app is
-                cost-free, ensuring that everyone can enjoy a premium visual
-                experience without any charges. It is compatible with Android
-                versions 5 to 13.
+                Ryumoto GFX MLBB Skin injector is a free and secure app that
+                provides you with MLBB visual skins to enhance your gaming
+                skills. The app is cost-free, ensuring that everyone can enjoy a
+                premium visual experience without any charges. It is compatible
+                with Android versions 5 to 13.
               </p>
             </div>
           </div>

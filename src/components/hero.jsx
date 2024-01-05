@@ -34,8 +34,9 @@ function hero() {
           </h1>
           <div>
             <p className="text-[0.9rem]  md:text-[.9rem] text-[#979696] mt-10">
-              Upgrade your MLBB gaming with Ryumoto GFX! Enjoy free, cool skins
-              for an enhanced gameplay experience.
+              Upgrade your MLBB gaming experience with Ryumoto GFX MLBB Skin
+              Injector! Enjoy free, cool skins for an enhanced gameplay
+              experience.
             </p>
           </div>
 
