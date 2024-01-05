@@ -47,7 +47,7 @@ function hero() {
           <img
             src={Mockup}
             alt="something mock-up"
-            style={{ width: "200px", height: "400px" }}
+            style={{ width: "201px", height: "405px" }}
           />
         </div>
       </div>

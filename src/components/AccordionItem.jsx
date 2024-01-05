@@ -2,7 +2,7 @@ import { IoIosArrowDown } from "react-icons/io";
 import { IoIosArrowUp } from "react-icons/io";
 import { Collapse } from "react-collapse";
 
-function AccordionItem({ open, toggle, title, desc, videoLink }) {
+function AccordionItem({ open, toggle, title, desc, Link, titleLink }) {
   return (
     <div>
       <div className="border-b-[1px] border-[#212121] ">
@@ -28,15 +28,13 @@ function AccordionItem({ open, toggle, title, desc, videoLink }) {
             <br />
             <br />
 
-            {videoLink ? (
+            {Link && (
               <a
-                href={videoLink}
+                href={Link}
                 className="underline md:cursor-pointer text-[11px] underline-offset-[4px] active:text-red-500"
               >
-                Watch Video Demo
+                {titleLink}
               </a>
-            ) : (
-              ""
             )}
           </div>
         </Collapse>

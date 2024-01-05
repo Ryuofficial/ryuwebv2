@@ -23,13 +23,13 @@ function Contact() {
 
       <div className="grid grid-cols-1 px-10">
         <div className="flex justify-center md:justify-start space-x-4 py-4">
-          <a href="https://www.youtube.com/@RyuDev_">
+          <a href="https://www.youtube.com/@RyuDev_" aria-label="Youtube link">
             <ion-icon name="logo-youtube"></ion-icon>
           </a>
-          <a href="https://www.tiktok.com/@dumpacryu">
+          <a href="https://www.tiktok.com/@dumpacryu" aria-label="Tiktok link">
             <ion-icon name="logo-tiktok"></ion-icon>
           </a>
-          <a href="mailto:ryuofficial64@gmail.com">
+          <a href="mailto:ryuofficial64@gmail.com" aria-label="Email link">
             <ion-icon name="mail-outline"></ion-icon>
           </a>
         </div>
