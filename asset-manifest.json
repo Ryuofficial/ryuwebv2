@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c835b74.css",
-    "main.js": "/static/js/main.1d7e0f5a.js",
+    "main.css": "/static/css/main.0eff0014.css",
+    "main.js": "/static/js/main.dd46cf27.js",
     "static/media/mockup-2.webp": "/static/media/mockup-2.0c839e73f6c030f7a020.webp",
     "static/media/mockUp.webp": "/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
     "static/media/time.webp": "/static/media/time.9eda27e551fc7abe3d13.webp",
@@ -9,11 +9,11 @@
     "static/media/history.webp": "/static/media/history.05ef6c0e44cebe4378b1.webp",
     "static/media/ryumoto-logo.webp": "/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
     "index.html": "/index.html",
-    "main.6c835b74.css.map": "/static/css/main.6c835b74.css.map",
-    "main.1d7e0f5a.js.map": "/static/js/main.1d7e0f5a.js.map"
+    "main.0eff0014.css.map": "/static/css/main.0eff0014.css.map",
+    "main.dd46cf27.js.map": "/static/js/main.dd46cf27.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c835b74.css",
-    "static/js/main.1d7e0f5a.js"
+    "static/css/main.0eff0014.css",
+    "static/js/main.dd46cf27.js"
   ]
 }
