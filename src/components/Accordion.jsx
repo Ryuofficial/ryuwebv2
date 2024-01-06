@@ -13,6 +13,13 @@ function Accordion() {
 
   const accordionData = [
     {
+      title: "How to update the app?",
+      desc: "Open the app > Click the 'Update' button > You will be redirected to the official website of Ryumoto GFX > Click 'Download Now.' If it doesn't work, you can use the alternative download > Delete the old version before installing the new version > Your app is now updated! Enjoy!",
+      Link: "https://youtu.be/PnD737MSSvA?si=o9_Njy63mv8AcJoH",
+      titleLink: "Watch Video Demo",
+    },
+
+    {
       title: "Is it free to use?",
       desc: "Yes, the app is free and designed for users who prefer not to spend money in the game.",
     },
