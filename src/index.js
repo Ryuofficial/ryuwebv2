@@ -4,7 +4,6 @@ import "./index.css";
 import App from "./App";
 
 export const ApkVersion = 1.89;
-document.title = `Ryumoto GFX APK Download [Latest Version] v${ApkVersion} for Android`;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -12,6 +11,7 @@ root.render(
     <App />
   </React.StrictMode>
 );
+s;
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
