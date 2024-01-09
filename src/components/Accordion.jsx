@@ -12,6 +12,13 @@ function Accordion() {
   };
 
   const accordionData = [
+
+    {
+      title: 'How get rid of "Your account has been disconnected from the server" message in MLBB?',
+      desc: "After injecting the skin, you need to uninstall the app (Ryumoto GFX) before playing the game to prevent the message 'Your account has been disconnected from the server' from appearing after a match. If you wish to inject a skin again, install the app and uninstall it again before playing",
+    },
+
+
     {
       title: "How to update the app?",
       desc: "Open the app > Click the 'Update' button > You will be redirected to the official website of Ryumoto GFX > Click 'Download Now.' If it doesn't work, you can use the alternative download > Delete the old version before installing the new version > Your app is now updated! Enjoy!",
@@ -22,11 +29,6 @@ function Accordion() {
     {
       title: "Is it free to use?",
       desc: "Yes, the app is free and designed for users who prefer not to spend money in the game.",
-    },
-
-    {
-      title: 'How get rid of "Third Party Detected" in MLBB?',
-      desc: "Simply update your app to the latest version and delete the old one. The latest version is updated and safe to use. Note that deleting the old version is necessary to completely remove the 'Third Party Detected' message.",
     },
 
     {
