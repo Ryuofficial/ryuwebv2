@@ -12,7 +12,7 @@ function Accordion() {
   };
 
   const accordionData = [
-s
+
     {
       title: "How to update the app?",
       desc: "Open the app > Click the 'Update' button > You will be redirected to the official website of Ryumoto GFX > Click 'Download Now.' If it doesn't work, you can use the alternative download > Delete the old version before installing the new version > Your app is now updated! Enjoy!",
