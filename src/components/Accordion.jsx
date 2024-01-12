@@ -12,13 +12,7 @@ function Accordion() {
   };
 
   const accordionData = [
-
-    {
-      title: 'How get rid of "Your account has been disconnected from the server" message in MLBB?',
-      desc: "After injecting the skin, you need to uninstall the app (Ryumoto GFX) before playing the game to prevent the message 'Your account has been disconnected from the server' from appearing after a match. If you wish to inject a skin again, install the app and uninstall it again before playing",
-    },
-
-
+s
     {
       title: "How to update the app?",
       desc: "Open the app > Click the 'Update' button > You will be redirected to the official website of Ryumoto GFX > Click 'Download Now.' If it doesn't work, you can use the alternative download > Delete the old version before installing the new version > Your app is now updated! Enjoy!",
