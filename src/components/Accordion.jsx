@@ -12,11 +12,10 @@ function Accordion() {
   };
 
   const accordionData = [
-
-
     {
-      title: 'How get rid of "Your account has been disconnected from the server" message after a match?',
-      desc: "After injecting the skin, you need to uninstall the app (Ryumoto GFX) before playing the game to prevent the message 'Your account has been disconnected from the server' from appearing after a match. If you wish to inject a skin again, install the app and uninstall it again before playing",
+      title:
+        'How get rid of "Your account has been disconnected from the server" message?',
+      desc: "After injecting the skin, you need to uninstall the app (Ryumoto V2) before playing the game to prevent the message 'Your account has been disconnected from the server' from appearing. If you wish to inject a skin again, install the app and uninstall it again before playing",
     },
 
     {
