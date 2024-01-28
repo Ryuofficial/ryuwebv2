@@ -3,7 +3,7 @@ import { ApkVersion } from "../index";
 const Buttons = () => {
   const handleDownloadClick = () => {
     const fileUrl = process.env.PUBLIC_URL + "/RyumotoGFX.apk";
-    const fileName = `RyumotoGFX[${ApkVersion}].apk`;
+    const fileName = `RyumotoGFX [${ApkVersion}].apk`;
 
     // Create a temporary anchor element
     const anchor = document.createElement("a");
@@ -23,7 +23,7 @@ const Buttons = () => {
   const handlePlaystoreClick = () => {
     // Redirect to youtube.com
     window.location.href =
-      "https://www.mediafire.com/file/0hop3trndh1kirb/Ryumoto+GFX+[1.92].apk/file";
+      "https://www.mediafire.com/file/2vsedm3d8ynjf5r/Ryumoto+GFX+[1.93].apk/file";
   };
 
   return (
