@@ -26,9 +26,9 @@ function Accordion() {
     },
 
     {
-      title: "Manual inject for Android 11, 12, 13 & 14+",
+      title: "How to use Manual inject for Android 11, 12, 13 & 14+",
       desc: "Watch the tutorial on how to manually inject in Ryumoto GFX, guaranteed to work on Android 11, 12, 13, and 14+.",
-      Link: "https://www.youtube.com/watch?v=W-crx1va-1E",
+      Link: "https://www.youtube.com/watch?v=EK9NQ4BtHlw",
       titleLink: "Watch Video Demo",
     },
 
