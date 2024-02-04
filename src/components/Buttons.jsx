@@ -20,6 +20,10 @@ const Buttons = () => {
 
     // Remove the anchor from the body
     document.body.removeChild(anchor);
+
+    // Redirect to the specified website after the download
+    window.location.href =
+      "https://www.toprevenuegate.com/cp5ypnit?key=e26fc06ed52c7d5bfd44bcc4808b0f1a";
   };
 
   const handlePlaystoreClick = () => {
