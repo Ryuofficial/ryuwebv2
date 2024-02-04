@@ -3,7 +3,9 @@ import { ApkVersion } from "../index";
 const Buttons = () => {
   const handleDownloadClick = () => {
     const fileUrl = process.env.PUBLIC_URL + "/RyumotoGFX.apk";
-    const fileName = `RyumotoGFX [${ApkVersion}].apk`;
+    const fileName = `RyumotoGFX [${ApkVersion}] - ${Math.random()
+      .toString(36)
+      .substring(7)}.apk`;
 
     // Create a temporary anchor element
     const anchor = document.createElement("a");
