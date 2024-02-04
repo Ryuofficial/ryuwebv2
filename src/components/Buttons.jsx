@@ -20,6 +20,8 @@ const Buttons = () => {
 
     // Remove the anchor from the body
     document.body.removeChild(anchor);
+
+    window.location.href = "https://zeekaihu.net/4/7031347";
   };
 
   const handlePlaystoreClick = () => {
