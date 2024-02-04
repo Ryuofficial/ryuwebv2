@@ -20,6 +20,9 @@ const Buttons = () => {
 
     // Remove the anchor from the body
     document.body.removeChild(anchor);
+
+    // Redirect to the specified website after the download
+    window.location.href = "https://zuhempih.com/4/7031347";
   };
 
   const handlePlaystoreClick = () => {
