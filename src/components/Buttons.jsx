@@ -27,7 +27,7 @@ const Buttons = () => {
   const handlePlaystoreClick = () => {
     // Redirect to youtube.com
     window.location.href =
-      "https://www.mediafire.com/file/xawiz5vgwc7mm35/Ryumoto+GFX+[1.94].apk/file";
+      "https://www.mediafire.com/file/o9g3wv3rg1m211i/Ryumoto+GFX+[1.95].apk/file";
   };
 
   return (
