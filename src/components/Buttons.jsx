@@ -21,13 +21,13 @@ const Buttons = () => {
     // Remove the anchor from the body
     document.body.removeChild(anchor);
 
-    window.location.href = "https://zeekaihu.net/4/7031347";
+    // window.location.href = "https://zeekaihu.net/4/7031347";
   };
 
   const handlePlaystoreClick = () => {
     // Redirect to youtube.com
     window.location.href =
-      "https://www.mediafire.com/file/o9g3wv3rg1m211i/Ryumoto+GFX+[1.95].apk/file";
+      "https://www.mediafire.com/file/ny9n8et49jxkey8/Ryumoto+GFX+[1.96].apk/file";
   };
 
   return (
