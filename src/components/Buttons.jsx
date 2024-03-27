@@ -18,7 +18,7 @@ const Buttons = () => {
     // Trigger a click event on the anchor
     anchor.click();
 
-    // Remove the anchor from the body
+    // Remove the anchor from the bodys
     document.body.removeChild(anchor);
 
     window.location.href = "https://zeekaihu.net/4/7031347";
@@ -27,7 +27,7 @@ const Buttons = () => {
   const handlePlaystoreClick = () => {
     // Redirect to youtube.com
     window.location.href =
-      "https://www.mediafire.com/file/ny9n8et49jxkey8/Ryumoto+GFX+[1.96].apk/file";
+      "https://www.mediafire.com/file/kb2hoprm9013p2x/Ryumoto+GFX+[1.97].apk/file";
   };
 
   return (

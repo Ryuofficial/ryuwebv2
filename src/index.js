@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 
-export const ApkVersion = (1.96).toFixed(2);
+export const ApkVersion = (1.97).toFixed(2);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
