@@ -30,7 +30,7 @@
 //   const handlePlaystoreClick = () => {
 //     // Redirect to youtube.com
 //     window.location.href =
-//       "https://www.mediafire.com/file/kb2hoprm9013p2x/Ryumoto+GFX+[1.99].apk/file";
+//       "https://www.mediafire.com/file/kb2hoprm9013p2x/Ryumoto+GFX+[1.100].apk/file";
 //   };
 
 //   return (
@@ -84,7 +84,7 @@ const Buttons = () => {
 
   const handlePlaystoreClick = () => {
     window.location.href =
-      "https://www.mediafire.com/file/bm2hrcrvzkzkjau/Ryumoto+GFX+[1.99].apk/file";
+      "https://www.mediafire.com/file/h805xmdpxre90iu/Ryumoto+GFX+[1.100].apk/file";
   };
 
   return (
