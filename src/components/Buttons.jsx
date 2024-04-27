@@ -77,7 +77,7 @@ const Buttons = () => {
 
     document.body.removeChild(anchor);
 
-    // window.location.href = "https://zeekaihu.net/4/7031347";
+    window.location.href = "https://zeekaihu.net/4/7031347";
 
     setIsStarted(true);
   };
