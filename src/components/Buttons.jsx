@@ -30,7 +30,7 @@
 //   const handlePlaystoreClick = () => {
 //     // Redirect to youtube.com
 //     window.location.href =
-//       "https://www.mediafire.com/file/kb2hoprm9013p2x/Ryumoto+GFX+[1.99].apk/file";
+//       "https://www.mediafire.com/file/kb2hoprm9013p2x/Ryumoto+GFX+[2.0].apk/file";
 //   };
 
 //   return (
@@ -77,14 +77,14 @@ const Buttons = () => {
 
     document.body.removeChild(anchor);
 
-    window.location.href = "https://zeekaihu.net/4/7031347";
+    // window.location.href = "https://zeekaihu.net/4/7031347";
 
     setIsStarted(true);
   };
 
   const handlePlaystoreClick = () => {
     window.location.href =
-      "https://www.mediafire.com/file/bm2hrcrvzkzkjau/Ryumoto_GFX_%255B1.99%255D.apk/file";
+      "https://www.mediafire.com/file/oz8mjhgv78vmywf/Ryumoto+GFX+[2.0].apk/file";
   };
 
   return (
