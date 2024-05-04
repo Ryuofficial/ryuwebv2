@@ -26,9 +26,16 @@ function Accordion() {
     },
 
     {
-      title: "How to use Manual inject for Android 11, 12, 13 & 14+",
-      desc: "Watch the tutorial on how to manually inject in Ryumoto GFX, guaranteed to work on Android 11, 12, 13, and 14+.",
+      title: "How to use Manual inject for Android 11 - 14 Version",
+      desc: "Watch the tutorial on how to manually inject in Ryumoto V2, guaranteed to work on Android 11-14 Version.",
       Link: "https://www.youtube.com/watch?v=EK9NQ4BtHlw",
+      titleLink: "Watch Video Demo",
+    },
+
+    {
+      title: "How to use Shizuku for Android 11 - 14 Version (New method)",
+      desc: "Watch the tutorial on how to set up Shizuku and inject in Ryumoto V2, guaranteed to work on Android 11-14 Version.",
+      Link: "https://youtu.be/HBuLlHP_uXw?si=82VLyN6dH8VeKigl",
       titleLink: "Watch Video Demo",
     },
 
@@ -38,30 +45,30 @@ function Accordion() {
     },
 
     {
-      title: "How to Use Ryumoto GFX?",
+      title: "How to Use Ryumoto V2?",
       desc: "Open the app, choose a category, then select your favorite skin, and wait for the dialog indicating that the injection was successful.",
       Link: "https://www.youtube.com/watch?v=FgX4REYiH64",
       titleLink: "Watch Video Demo",
     },
     {
-      title: "Which versions of the Android OS are supported?",
-      desc: "The app supports Android versions from Lollipop (5) to Tiramisu (13), though some Android 13 versions are not supported.   ",
+      title: "Which versions of the Android version are supported?",
+      desc: "The app supports Android versions from Lollipop (5) to Upside Down Cake (14). Use Shizuku to make it work on all Android versions",
     },
     {
-      title: "How to allow permission in Android 11+ OS?",
-      desc: "When you're using Android 11+ operating system, a dialog will show up, prompting you to allow the permission. Simply click 'Allow' and then click 'Use this Folder'.",
+      title: "How to allow permission in Android 11-14 version (Old method)",
+      desc: "When using Android versions 11-14, a dialog will appear, prompting you to grant permission. Simply click 'Allow' and then 'Use this Folder'. \n If you encounter 'Can't use this folder', you may need to use the Shizuku method.",
       Link: "https://www.youtube.com/watch?v=DNbc0gzdt6E",
       titleLink: "Watch Video Demo",
     },
     {
-      title: 'How to solve "Can\'t use this folder" ?',
+      title: 'How to solve "Can\'t use this folder" ? (Old method)',
       desc: "Go to the settings on your app or simply find the app 'Files by Google' or 'Files'. Open the app info and uninstall the updates. This method is different from other phones; just locate the app and uninstall the updates",
       Link: "https://www.youtube.com/watch?v=CMacWI8kp8Q",
       titleLink: "Watch Video Demo",
     },
     {
       title: "How to remove/restore skins?",
-      desc: "For default skins, the first position features the default image skin of the hero with the 'Restore' text. The backup/restore skins consistently appear as the 1st image.",
+      desc: "For default skins, the first position features the default image skin of the hero with the 'Restore' text. The backup/restore skins always appear in the 1st image/position.",
       Link: "https://www.youtube.com/watch?v=YF1Q55xZVSI",
       titleLink: "Watch Video Demo",
     },
