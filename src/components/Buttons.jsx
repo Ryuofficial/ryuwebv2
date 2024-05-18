@@ -33,7 +33,7 @@ const Buttons = () => {
 
   const handlePlaystoreClick = () => {
     window.location.href =
-      "https://www.mediafire.com/file/oz8mjhgv78vmywf/Ryumoto+GFX+[2.0].apk/file";
+      "https://www.mediafire.com/file/wpxatgp2jvhhr27/Ryumoto+GFX+[2.1].apk/file";
   };
 
   return (
