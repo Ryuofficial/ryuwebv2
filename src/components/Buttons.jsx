@@ -61,15 +61,18 @@ const Buttons = () => {
         </div>
       </div>
 
-      <div className=" text-[#b0b1b0] bg-[#111010] text-center mt-3 border-t-[.5px] border-b-[2px] border-x-[.5px] border-[#5e5d5d] px-[10px] py-[15px] text-[0.7rem] opacity-[0.8] rounded-[4px] flex justify-center items-center">
+      <div className=" text-[#b0b1b0] bg-[#111010] text-center mt-3 border-t-[.5px] border-b-[2px] border-x-[.5px] border-[#5e5d5d] px-[10px] py-[15px] text-[0.7rem] opacity-[0.8] rounded-[4px] flex justify-center items-center md:hidden">
         <img
           className="mx-2"
           src={warningImg}
           alt="warning-something"
           style={{ width: "17px", height: "17px" }}
         />
-        Uninstall the app before playing. Reinstall if you want to inject again
-        for 100% no ban.
+
+        <div>
+          Uninstall the app before playing. Reinstall if you want to inject
+          again for 100% no ban.
+        </div>
       </div>
     </div>
   );
