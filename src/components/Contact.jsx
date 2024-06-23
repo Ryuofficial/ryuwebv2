@@ -34,7 +34,7 @@ function Contact() {
           </a>
         </div>
         <p className="text-[0.7rem] text-center md:text-start text-[#979696]">
-          &#169; 2024 Ryu developer. All right Reserved.
+          Created by Ryu developer 2024
         </p>
       </div>
     </footer>
