@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2aab622f.css",
-    "main.js": "/static/js/main.d865f630.js",
+    "main.css": "/static/css/main.a77caa3c.css",
+    "main.js": "/static/js/main.b03445e8.js",
     "static/media/mockup-2.webp": "/static/media/mockup-2.0c839e73f6c030f7a020.webp",
     "static/media/mockUp.webp": "/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
     "static/media/time.webp": "/static/media/time.9eda27e551fc7abe3d13.webp",
+    "static/media/warning.webp": "/static/media/warning.2c38eb6d0e8a670eec3a.webp",
     "static/media/shield-v2.webp": "/static/media/shield-v2.957e92f2efe9c7f767aa.webp",
     "static/media/history.webp": "/static/media/history.05ef6c0e44cebe4378b1.webp",
     "static/media/ryumoto-logo.webp": "/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
     "index.html": "/index.html",
-    "main.2aab622f.css.map": "/static/css/main.2aab622f.css.map",
-    "main.d865f630.js.map": "/static/js/main.d865f630.js.map"
+    "main.a77caa3c.css.map": "/static/css/main.a77caa3c.css.map",
+    "main.b03445e8.js.map": "/static/js/main.b03445e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aab622f.css",
-    "static/js/main.d865f630.js"
+    "static/css/main.a77caa3c.css",
+    "static/js/main.b03445e8.js"
   ]
 }
