@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a77caa3c.css",
-    "main.js": "/static/js/main.b03445e8.js",
+    "main.js": "/static/js/main.7285a05f.js",
     "static/media/mockup-2.webp": "/static/media/mockup-2.0c839e73f6c030f7a020.webp",
     "static/media/mockUp.webp": "/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
     "static/media/time.webp": "/static/media/time.9eda27e551fc7abe3d13.webp",
@@ -11,10 +11,10 @@
     "static/media/ryumoto-logo.webp": "/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
     "index.html": "/index.html",
     "main.a77caa3c.css.map": "/static/css/main.a77caa3c.css.map",
-    "main.b03445e8.js.map": "/static/js/main.b03445e8.js.map"
+    "main.7285a05f.js.map": "/static/js/main.7285a05f.js.map"
   },
   "entrypoints": [
     "static/css/main.a77caa3c.css",
-    "static/js/main.b03445e8.js"
+    "static/js/main.7285a05f.js"
   ]
 }
