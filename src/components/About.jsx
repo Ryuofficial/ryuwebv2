@@ -32,7 +32,7 @@ function About() {
                 provides you with MLBB visual skins to enhance your gaming
                 skills. The app is cost-free, ensuring that everyone can enjoy a
                 premium visual experience without any charges. It is compatible
-                with Android versions 5 to 13.
+                with Android versions 5 to 14.
               </p>
             </div>
           </div>
