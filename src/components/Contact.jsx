@@ -2,7 +2,7 @@ function Contact() {
   return (
     <footer
       id="Contact-section"
-      className=" space-x-5 grid grid-cols-1 md:grid-cols-2 gap-6 text-white py-11 pb-[4.8rem] md:px-[10rem] bg-[#060606] h-fit justify-center items-center"
+      className=" space-x-5 grid grid-cols-1 md:grid-cols-2 gap-6 text-white py-11  pb-[4.8rem] md:px-[10rem] bg-[#060606] h-fit justify-center items-center"
     >
       <div className="p-10">
         <p className="text-start font-semibold mb-5 text-xl">Lets Connect</p>
@@ -36,6 +36,11 @@ function Contact() {
         <p className="text-[0.7rem] text-center md:text-start text-[#979696]">
           Created by Ryu developer 2024
         </p>
+        <a href="https://ryumotogfx.com/privacy">
+          <p className="text-[0.7rem] text-center md:text-start text-[#979696]">
+            Privacy Policy
+          </p>
+        </a>
       </div>
     </footer>
   );
