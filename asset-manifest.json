@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a77caa3c.css",
-    "main.js": "/static/js/main.64d9aeff.js",
-    "static/media/mockup-2.webp": "/static/media/mockup-2.0c839e73f6c030f7a020.webp",
-    "static/media/mockUp.webp": "/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
-    "static/media/time.webp": "/static/media/time.9eda27e551fc7abe3d13.webp",
-    "static/media/warning.webp": "/static/media/warning.2c38eb6d0e8a670eec3a.webp",
-    "static/media/shield-v2.webp": "/static/media/shield-v2.957e92f2efe9c7f767aa.webp",
-    "static/media/history.webp": "/static/media/history.05ef6c0e44cebe4378b1.webp",
-    "static/media/ryumoto-logo.webp": "/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
-    "index.html": "/index.html",
-    "main.a77caa3c.css.map": "/static/css/main.a77caa3c.css.map",
-    "main.64d9aeff.js.map": "/static/js/main.64d9aeff.js.map"
+    "main.css": "/Ryuofficial/ryuwebv2/static/css/main.a77caa3c.css",
+    "main.js": "/Ryuofficial/ryuwebv2/static/js/main.5aba3085.js",
+    "static/media/mockup-2.webp": "/Ryuofficial/ryuwebv2/static/media/mockup-2.0c839e73f6c030f7a020.webp",
+    "static/media/mockUp.webp": "/Ryuofficial/ryuwebv2/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
+    "static/media/time.webp": "/Ryuofficial/ryuwebv2/static/media/time.9eda27e551fc7abe3d13.webp",
+    "static/media/warning.webp": "/Ryuofficial/ryuwebv2/static/media/warning.2c38eb6d0e8a670eec3a.webp",
+    "static/media/shield-v2.webp": "/Ryuofficial/ryuwebv2/static/media/shield-v2.957e92f2efe9c7f767aa.webp",
+    "static/media/history.webp": "/Ryuofficial/ryuwebv2/static/media/history.05ef6c0e44cebe4378b1.webp",
+    "static/media/ryumoto-logo.webp": "/Ryuofficial/ryuwebv2/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
+    "index.html": "/Ryuofficial/ryuwebv2/index.html",
+    "main.a77caa3c.css.map": "/Ryuofficial/ryuwebv2/static/css/main.a77caa3c.css.map",
+    "main.5aba3085.js.map": "/Ryuofficial/ryuwebv2/static/js/main.5aba3085.js.map"
   },
   "entrypoints": [
     "static/css/main.a77caa3c.css",
-    "static/js/main.64d9aeff.js"
+    "static/js/main.5aba3085.js"
   ]
 }
