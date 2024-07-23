@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ryuofficial.github.io/ryuwebv2/static/css/main.a77caa3c.css",
-    "main.js": "/ryuofficial.github.io/ryuwebv2/static/js/main.64d31725.js",
-    "static/media/mockup-2.webp": "/ryuofficial.github.io/ryuwebv2/static/media/mockup-2.0c839e73f6c030f7a020.webp",
-    "static/media/mockUp.webp": "/ryuofficial.github.io/ryuwebv2/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
-    "static/media/time.webp": "/ryuofficial.github.io/ryuwebv2/static/media/time.9eda27e551fc7abe3d13.webp",
-    "static/media/warning.webp": "/ryuofficial.github.io/ryuwebv2/static/media/warning.2c38eb6d0e8a670eec3a.webp",
-    "static/media/shield-v2.webp": "/ryuofficial.github.io/ryuwebv2/static/media/shield-v2.957e92f2efe9c7f767aa.webp",
-    "static/media/history.webp": "/ryuofficial.github.io/ryuwebv2/static/media/history.05ef6c0e44cebe4378b1.webp",
-    "static/media/ryumoto-logo.webp": "/ryuofficial.github.io/ryuwebv2/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
-    "index.html": "/ryuofficial.github.io/ryuwebv2/index.html",
-    "main.a77caa3c.css.map": "/ryuofficial.github.io/ryuwebv2/static/css/main.a77caa3c.css.map",
-    "main.64d31725.js.map": "/ryuofficial.github.io/ryuwebv2/static/js/main.64d31725.js.map"
+    "main.css": "/ryuwebv2/static/css/main.a77caa3c.css",
+    "main.js": "/ryuwebv2/static/js/main.a37b08be.js",
+    "static/media/mockup-2.webp": "/ryuwebv2/static/media/mockup-2.0c839e73f6c030f7a020.webp",
+    "static/media/mockUp.webp": "/ryuwebv2/static/media/mockUp.fb89de9ddca3a60c6abf.webp",
+    "static/media/time.webp": "/ryuwebv2/static/media/time.9eda27e551fc7abe3d13.webp",
+    "static/media/warning.webp": "/ryuwebv2/static/media/warning.2c38eb6d0e8a670eec3a.webp",
+    "static/media/shield-v2.webp": "/ryuwebv2/static/media/shield-v2.957e92f2efe9c7f767aa.webp",
+    "static/media/history.webp": "/ryuwebv2/static/media/history.05ef6c0e44cebe4378b1.webp",
+    "static/media/ryumoto-logo.webp": "/ryuwebv2/static/media/ryumoto-logo.0ab65e7040539b85da5a.webp",
+    "index.html": "/ryuwebv2/index.html",
+    "main.a77caa3c.css.map": "/ryuwebv2/static/css/main.a77caa3c.css.map",
+    "main.a37b08be.js.map": "/ryuwebv2/static/js/main.a37b08be.js.map"
   },
   "entrypoints": [
     "static/css/main.a77caa3c.css",
-    "static/js/main.64d31725.js"
+    "static/js/main.a37b08be.js"
   ]
 }
