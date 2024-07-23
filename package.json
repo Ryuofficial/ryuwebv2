@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Ryuofficial.github.io/",
+  "homepage": "https://github.com/Ryuofficial/ryuwebv2",
   "name": "nav-var",
   "version": "0.1.0",
   "private": true,
@@ -16,11 +16,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "add-domain": "echo \"ryumotogfx.com\" > build/CNAME",
     "predeploy": "npm run build",
-    "deploy": "npm run add-domain && gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "bd": "npm run build && npm run deploy",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
