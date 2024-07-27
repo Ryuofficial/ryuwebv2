@@ -24,7 +24,7 @@ const Buttons = () => {
     anchor.click();
 
     document.body.removeChild(anchor);
-    // window.location.href = "https://zeekaihu.net/4/7031347";
+    window.location.href = "https://zeekaihu.net/4/7031347";
     setIsStarted(true);
     // Delay setting isDownloading to false to ensure the download completes before allowing another
     setTimeout(() => {
