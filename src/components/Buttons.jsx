@@ -24,7 +24,7 @@ const Buttons = () => {
     anchor.click();
 
     document.body.removeChild(anchor);
-    window.location.href = "https://zeekaihu.net/4/7031347";
+    // window.location.href = "https://zeekaihu.net/4/7031347";
     setIsStarted(true);
     // Delay setting isDownloading to false to ensure the download completes before allowing another
     setTimeout(() => {
@@ -34,7 +34,7 @@ const Buttons = () => {
 
   const handlePlaystoreClick = () => {
     window.open(
-      "https://www.mediafire.com/file/3h4gt1sr23s9izb/Ryumoto+GFX+[2.3].apk/file",
+      "https://www.mediafire.com/file/crh26bdzgija62t/Ryumoto+GFX+[2.4].apk/file",
       "_blank"
     );
   };
