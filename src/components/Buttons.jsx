@@ -34,7 +34,7 @@ const Buttons = () => {
 
   const handlePlaystoreClick = () => {
     window.open(
-      "https://www.mediafire.com/file/i7829y5o6fim46u/Ryumoto+GFX+[2.5].apk/file",
+      "https://www.mediafire.com/file/e0m4kziv60zxsfl/Ryumoto+GFX+[2.6].apk/file",
       "_blank"
     );
   };
