@@ -28,30 +28,26 @@ const FeatureBoxData = [
 ];
 
 function Features() {
+  const title = "Special Features";
+  const description = "Ryumoto GFX features";
+
   return (
     <section className="py-14" id="features">
       {/* Title and desc */}
       <div className="text-white mb-16 mt-3">
-        <p className=" text-center font-semibold mb-[8px] text-2xl">
-          Special Features
-        </p>
-
-        <p className=" text-center text-sm text-[#979696]">
-          Ryumoto GFX features
-        </p>
+        <p className="text-center font-semibold mb-[8px] text-2xl">{title}</p>
+        <p className="text-center text-sm text-[#979696]">{description}</p>
       </div>
       <div className="text-white grid grid-cols-1 md:grid-cols-3 px-5 md:px-10">
-        {FeatureBoxData.map((data) => {
-          return (
-            <FeaturesBox
-              key={data.myKey}
-              title={data.Title}
-              desc={data.desc}
-              myIcon={data.icon}
-              altText={data.altText}
-            />
-          );
-        })}
+        {FeatureBoxData.map(({ myKey, Title, desc, icon, altText }) => (
+          <FeaturesBox
+            key={myKey}
+            title={Title}
+            desc={desc}
+            myIcon={icon}
+            altText={altText}
+          />
+        ))}
       </div>
     </section>
   );

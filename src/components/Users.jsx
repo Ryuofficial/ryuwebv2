@@ -7,7 +7,7 @@ function Users() {
         <ul className="p-7 border-[1px] border-[#212121] rounded-lg max-w-full grid grid-cols-2 md:grid-cols-3 text-[#bebebe] justify-around items-center text-center gap-7">
           <li>
             <div className=" text-white font-semibold text-[.75rem] md:text-[.90rem] leading-relaxed">
-              Dec 19, 2024
+              Dec 21, 2024
             </div>
             <div>
               <p className="text-xs">Last Update</p>
